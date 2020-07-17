@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-Hola! soy Natalia Mateo, Frontend Developer :computer:. Recientemente he realizado el bootcamp de Adalab donde he aprendido HTML, CSS(Sass), Git, Javascript y React.
+Hello! My name is Natalimia Mateo and I´m Frontend Developer :computer:. I build with Htmkl5, Css3, Sass, Git, npm, Javascript and React.
 
 Actualmente realizo proyectos personales, katas, voy a charlas y sigo con cursos online con el fin de seguir aprendiendo y de encontrar trabajo.
+Actually I continue my training with personal proyects, kata in codewars, online courses and webinars.
 
-:soon: En un futuro me gustaría aprender nuevas librerias y frameworks, así como otros lenguajes de programación.
+:soon: In the future i would like learn Angular!
 
-Me gusta viajar :airplane:, leer :books: y los videojuegos :video_game:. 
+I love travel to the world :airplane:, read :books: and play videogames :video_game:. 
 
-Puedes seguirme en [Twitter](https://twitter.com/natitey) o visitar mi [Linkedin](https://www.linkedin.com/in/nataliamateomenendez/)
+U can visit my [Twitter](https://twitter.com/natitey) and my [Linkedin](https://www.linkedin.com/in/nataliamateomenendez/)
 
 
 <!--
