@@ -4,7 +4,7 @@ Hello! My name is Natalia Mateo and I´m Frontend Developer :computer:. I build 
 
 Actually I continue my training with personal proyects, kata in codewars, online courses and webinars. Currently I am searching  a job oportunity that will make learn more!
 
-:soon: In the future i would like learn Angular!
+:soon: In the future I would like learn Angular!
 
 I love travel to the world :airplane:, read :books: and play videogames :video_game:. 
 
