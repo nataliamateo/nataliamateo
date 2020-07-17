@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Natalia Mateo and I´m Frontend Developer :computer:.
+Hello! My name is **Natalia Mateo** and I´m Frontend Developer :computer:.
 
 I build with Htmkl5, Css3, Sass, Git, npm, Javascript and React.
 
