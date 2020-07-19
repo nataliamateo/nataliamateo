@@ -10,7 +10,7 @@ Actually I continue my training with personal proyects, kata in codewars, online
 
 I love travel to the world :airplane:, read :books: and play videogames :video_game:. 
 
-U can visit my [Twitter](https://twitter.com/natitey) and my [Linkedin](https://www.linkedin.com/in/nataliamateomenendez/)
+You can visit my [Twitter](https://twitter.com/natitey) and my [Linkedin](https://www.linkedin.com/in/nataliamateomenendez/)
 
 
 <!--
