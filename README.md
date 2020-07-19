@@ -2,9 +2,9 @@
 
 Hello! My name is **Natalia Mateo** and I´m Frontend Developer :computer:.
 
-I build with Htmkl5, Css3, Sass, Git, npm, Javascript and React.
+I build with Html5, Css3, Sass, Git, npm, Javascript and React.
 
-Actually I continue my training with personal proyects, kata in codewars, online courses and webinars. Currently I am searching  a job oportunity that will make learn more!
+Actually I continue my training with personal proyects, katas in codewars, online courses and webinars. Currently I am searching a job oportunity that will make learn more!
 
 :soon: In the future I would like learn Angular!
 
