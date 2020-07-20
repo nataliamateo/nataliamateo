@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="/nataliamateo/nataliamateo/blob/master/myoctocatS.jpg" alt="My octocat" align="right" width="400px"/> 
+<img src="/nataliamateo/nataliamateo/blob/master/myoctocatS.jpg" alt="My octocat" title="My Octocat" align="right" width="400px"/> 
 
 Hello! My name is **Natalia Mateo** and I´m Frontend Developer :computer:.
 
@@ -14,7 +14,7 @@ Currently I am searching a job oportunity that will make learn more!
 
 I love travel to the world :airplane:, read :books: and play videogames :video_game:. 
  
- You can visit my [Twitter](https://twitter.com/natitey) and my [Linkedin](https://www.linkedin.com/in/nataliamateomenendez/)
+ You can visit my [Twitter](https://twitter.com/natitey) and my [Linkedin](https://www.linkedin.com/in/nataliamateomenendez/).
 
 
 <!--
