@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="/myoctocatS.jpg" alt="My octocat" align="right" width="400px"/> 
+<img src="/nataliamateo/nataliamateo/blob/master/myoctocatS.jpg" alt="My octocat" align="right" width="400px"/> 
 
 Hello! My name is **Natalia Mateo** and I´m Frontend Developer :computer:.
 
