@@ -1,27 +1,17 @@
 ### Hi there 👋
 
-<img src="/nataliamateo/nataliamateo/blob/master/myoctocatS.jpg" alt="My octocat" title="My Octocat" align="right" width="400px"/> 
+<img src="/nataliamateo/nataliamateo/blob/master/myoctocatS.jpg" alt="My octocat" title="My Octocat" align="right" width="400px"/>
 
-Hello! My name is **Natalia Mateo** and I´m Frontend Developer :computer:.
+Hello! My name is **Natalia** and I'm a Frontend Developer :computer:.
 
-I build with **Html5, Css3, Sass, Git, npm, Javascript and React**.
+I work with **HTML5, CSS3, Sass, git, npm, JavaScript and React**.
 
-Actually I continue my training with personal proyects, katas in codewars, online courses and webinars.   
+Currently I'm working on personal proyects, challenge myself doing katas in [codewars](https://www.codewars.com) and attend online courses and webinars.
 
-Currently I am searching a job oportunity that will make learn more!
+I am looking for job where I can learn even more!
 
-:soon: In the future I would like learn Angular!
+:soon: For example, learning Angular or Svelte.
 
-I love travel to the world :airplane:, read :books: and play videogames :video_game:. 
+I love travelling around the world :airplane:, reading :books: and playing videogames :video_game:.
  
- You can visit my [Twitter](https://twitter.com/natitey) and my [Linkedin](https://www.linkedin.com/in/nataliamateomenendez/).
-
-
-<!--
-**nataliamateo/nataliamateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-
+You can visit my [Twitter](https://twitter.com/natitey) and my [LinkedIn](https://www.linkedin.com/in/nataliamateomenendez/).
