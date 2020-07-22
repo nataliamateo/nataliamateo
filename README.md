@@ -14,4 +14,4 @@ I am looking for job where I can learn even more!
 
 I love travelling around the world :airplane:, reading :books: and playing videogames :video_game:.
  
-You can visit my [Twitter](https://twitter.com/natitey) and my [LinkedIn](https://www.linkedin.com/in/nataliamateomenendez/).
+You can visit my personal [Portfolio](https://nataliamateo.netlify.app/#/), my [Twitter](https://twitter.com/natitey) and my [LinkedIn](https://www.linkedin.com/in/nataliamateomenendez/).
