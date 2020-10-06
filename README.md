@@ -6,9 +6,9 @@ Hello! My name is **Natalia** and I'm a Frontend Developer :computer:.
 
 I work with **HTML5, CSS3, Sass, git, npm, JavaScript and React**.
 
-Currently I'm working on personal proyects, challenge myself doing katas in [codewars](https://www.codewars.com) and attend online courses and webinars.
+I'm working on personal proyects, challenge myself doing katas in [codewars](https://www.codewars.com) and attend online courses and webinars.
 
-I am looking for job where I can learn even more!
+Currently i'm working in A3sec on Madrid.
 
 :soon: For example, learning Angular or Svelte.
 
