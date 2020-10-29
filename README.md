@@ -4,7 +4,7 @@
 
 Hello! My name is **Natalia** and I'm a Frontend Developer :computer:.
 
-I work with **HTML5, CSS3, Sass, git, npm, JavaScript and React**.
+I work with **HTML5, CSS3, Sass, git, npm, JavaScript, Jquery and React**.
 
 I'm working on personal proyects, challenge myself doing katas in [codewars](https://www.codewars.com) and attend online courses and webinars.
 
